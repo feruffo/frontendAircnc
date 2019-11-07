@@ -1,2 +1,2 @@
 # frontendAircnc
-Projeto feito em React para estudo, baseado no serviço online Airbnb.
+Projeto desenvolvido em React para estudo, baseado no serviço online Airbnb.
